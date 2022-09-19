@@ -21,7 +21,7 @@ Tenga en cuenta que un médico puede tener varias especialiades y que una especi
 
 ## Punto 2 (30%). Lógica
 
-(10%) Cree la clase correspondiente para la lógica de médico. Implemente unicamente el método _createMedicos_. Valide que el registro médico inicie únicamente con los caracteres "RM" (e.g., RM1745).
+(10%) Cree la clase correspondiente para la lógica de médico. Implemente unicamente el método _createMedicos_. Valide que el registro médico inicie solo con los caracteres "RM" (e.g., RM1745).
 
 (10%) Cree la clase correspondiente para la lógica de especialidad. Implemente unicamente el método _createEspecialidad_. Valide que la descripción tenga como mínimo 10 caracteres.
 
