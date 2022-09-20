@@ -25,7 +25,7 @@ Tenga en cuenta que un médico puede tener varias especialiades y que una especi
 
 (10%) Cree la clase correspondiente para la lógica de especialidad. Implemente unicamente el método _createEspecialidad_. Valide que la descripción tenga como mínimo 10 caracteres.
 
-(10%) Cree la clase correspondiente para la lógica de la asociación entre especialidad. Implemente unicamente el método _addEspecialidad_. Este método recibe como parámetro el id del médico, el id de la especidad y le agrega la especialidad al médico. Valide que tanto el médico como la especialidad existan.
+(10%) Cree la clase correspondiente para la lógica de la asociación entre médico y especialidad. Implemente unicamente el método _addEspecialidad_. Este método recibe como parámetro el id del médico, el id de la especidad y le agrega la especialidad al médico. Valide que tanto el médico como la especialidad existan.
 
 ## Punto 2 (40%). Prueba de lógica
 
